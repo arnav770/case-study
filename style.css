@@ -1,0 +1,24 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: cadetblue;
+}
+
+.headerDiv {
+    background-color: white;
+    color: coral;
+}
+
+.headerDiv img {
+    width: 100px;
+}
+
+.images {
+    background-color:darksalmon;
+    padding: 10px;
+    margin-top: 15px;
+    width: 310px;
+    box-shadow: 5px 5px 18px gold;
+}
+
+
+
